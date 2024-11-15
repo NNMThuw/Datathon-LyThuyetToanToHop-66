@@ -1,6 +1,6 @@
 # Datathon-LyThuyetToanToHop-66
 
-Repository for Datathon Top 24 Team Competition.
+Repository for Datathon Top 5 Team Competition.
 
 > **Note**: This repository has not been maitained since the end of the competition. The code may not work as expected. I am now working on a new version of the project with better code quality.
 
